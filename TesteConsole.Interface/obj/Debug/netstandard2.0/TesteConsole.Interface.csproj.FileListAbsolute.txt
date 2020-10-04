@@ -1,0 +1,9 @@
+C:\Users\carlo\Desktop\.NET CORE\ConsoleCore\TesteConsole.Interface\bin\Debug\netstandard2.0\TesteConsole.Interface.deps.json
+C:\Users\carlo\Desktop\.NET CORE\ConsoleCore\TesteConsole.Interface\bin\Debug\netstandard2.0\TesteConsole.Interface.dll
+C:\Users\carlo\Desktop\.NET CORE\ConsoleCore\TesteConsole.Interface\bin\Debug\netstandard2.0\TesteConsole.Interface.pdb
+C:\Users\carlo\Desktop\.NET CORE\ConsoleCore\TesteConsole.Interface\obj\Debug\netstandard2.0\TesteConsole.Interface.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\.NET CORE\ConsoleCore\TesteConsole.Interface\obj\Debug\netstandard2.0\TesteConsole.Interface.AssemblyInfoInputs.cache
+C:\Users\carlo\Desktop\.NET CORE\ConsoleCore\TesteConsole.Interface\obj\Debug\netstandard2.0\TesteConsole.Interface.AssemblyInfo.cs
+C:\Users\carlo\Desktop\.NET CORE\ConsoleCore\TesteConsole.Interface\obj\Debug\netstandard2.0\TesteConsole.Interface.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Desktop\.NET CORE\ConsoleCore\TesteConsole.Interface\obj\Debug\netstandard2.0\TesteConsole.Interface.dll
+C:\Users\carlo\Desktop\.NET CORE\ConsoleCore\TesteConsole.Interface\obj\Debug\netstandard2.0\TesteConsole.Interface.pdb
